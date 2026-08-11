@@ -1,5 +1,5 @@
 #FROM docker.io/node:22
-FROM quay.io/konflux-ci/yarn4-nodejs22-ubi9-minimal:latest@sha256:0d55a739ffec7b5c19703674ab7360cc9071fce90d19e67dbed0ef99a8c96fd4
+FROM quay.io/konflux-ci/yarn4-nodejs22-ubi9-minimal:latest@sha256:0121493d5f0fb0a68130d07cb4ca717b3f5ccdc5926274cd771ea530dd66bb6a
 
 WORKDIR /app
 
